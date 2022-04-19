@@ -24,4 +24,4 @@ CREATE TABLE employee (
     role_id INT NULL,
     manage_id INT NULL,
     PRIMARY KEY (id)
-);
+)
