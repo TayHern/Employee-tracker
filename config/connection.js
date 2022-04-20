@@ -12,4 +12,7 @@ const connectionProperties = {
 
 const connection = mysql.createConnection(connectionProperties);
 
-module.exports = { connectionProperties, connection };
+module.exports = {
+    connectionProperties,
+    connection
+};
