@@ -3,9 +3,9 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
+This is a CLI application to be able to track, update, and add employees to your database.
 
 
-![images]()
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,9 +15,14 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Just run the application by going to <link>
+- Install npm init -y
+- npm i
+- Create your database
+- Run node server.js
+- Source your schema.sql file
+- Source your seed.sql file
 ## Usage
-Whos is the intended?
+Great for employers to organize their employees
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
